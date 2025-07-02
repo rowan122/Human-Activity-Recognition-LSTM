@@ -28,6 +28,8 @@ The model achieved good accuracy on the test set and was able to successfully di
 - Jupyter Notebook
 
 ## 📌 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/rowan122/Human-Activity-Recognition-LSTM
+You can view and run the full notebook on Google Colab:
+
+👉 [Open in Colab](https://colab.research.google.com/github/rowan122/Human-Activity-Recognition-LSTM/blob/main/project%20neural%20network.ipynb)
+
+Just click the link above and it will open the notebook in an interactive environment with all code already executed.
